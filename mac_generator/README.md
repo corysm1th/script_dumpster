@@ -1,11 +1,11 @@
 # MAC Generator
 Generates a bulk number of RFC compliant MAC addresses with the namespace for locally managed addresses.
-
+```
 X2:XX:XX:XX:XX:XX
 X6:XX:XX:XX:XX:XX
 XA:XX:XX:XX:XX:XX
 XE:XX:XX:XX:XX:XX
-
+```
 Source: https://serverfault.com/a/627133/368069
 
 ## Usage
