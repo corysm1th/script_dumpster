@@ -1,5 +1,5 @@
 skinparam {
-    ActorBackgroundColor fuchsia
+    ActorBackgroundColor darkviolet
     ActorBorderColor grey
     ActorFontColor white
     ArrowColor white
