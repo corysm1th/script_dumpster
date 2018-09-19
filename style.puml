@@ -2,18 +2,18 @@ skinparam {
     ActorBackgroundColor darkviolet
     ActorBorderColor grey
     ActorFontColor white
-    ArrowColor white
-    ArrowFontColor white
+    ArrowColor deepskyblue
+    ArrowFontColor black
     BoxBackgroundColor black
     BoxBorderColor grey
-    BackgroundColor black
-    DatabaseBackgroundColor deepskyblue
-    DatabaseBorderColor grey
-    DatabaseFontColor white
+    BackgroundColor #f0f0f0
+    DatabaseBackgroundColor white
+    DatabaseBorderColor deeppink
+    DatabaseFontColor black
     LifeLineBorderColor grey
     LifeLineBackgroundColor grey
-    NoteBackgroundColor lime
-    NoteBorderColor grey
+    NoteBackgroundColor white
+    NoteBorderColor lime
     NoteFontColor black
     SequenceDividerBackgroundColor white
     SequenceDividerBorderColor white
@@ -24,19 +24,15 @@ skinparam {
     SequenceGroupHeaderBackgroundColor orangered
     SequenceGroupHeaderBorderColor grey
     SequenceGroupHeaderFontColor black
-    SequenceLifeLineBorderColor grey
-    ParticipantBackgroundColor deeppink
-    ParticipantBorderColor black
-    ParticipantFontColor white
+    SequenceLifeLineBorderColor deeppink
+    ParticipantBackgroundColor white
+    ParticipantBorderColor deeppink
+    ParticipantFontColor black
     StateBackgroundColor darkturquoise
     StateBorderColor grey
     StateFontColor white
-    SwimlaneBackgroundColor grey
-    SwimlaneBorderColor grey
-    SwimlaneFontColor black
     TitleBackgroundColor white
     TitleBorderColor black
     TitleFontColor black
-    DefaultFontColor black
-    
+    DefaultFontColor black   
 }
