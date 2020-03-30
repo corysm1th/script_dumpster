@@ -17,7 +17,7 @@ skinparam {
     NoteFontColor black
     SequenceDividerBackgroundColor white
     SequenceDividerBorderColor white
-    SequenceDividerFontColor white
+    SequenceDividerFontColor black
     SequenceGroupBackgroundColor deepskyblue
     SequenceGroupBorderColor grey
     SequenceGroupFontColor orangered
