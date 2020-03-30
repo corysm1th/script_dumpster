@@ -6,7 +6,7 @@ skinparam {
     ArrowFontColor black
     BoxBackgroundColor black
     BoxBorderColor grey
-    BackgroundColor #f0f0f0
+    BackgroundColor white
     DatabaseBackgroundColor white
     DatabaseBorderColor deeppink
     DatabaseFontColor black
