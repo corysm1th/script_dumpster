@@ -16,7 +16,7 @@ skinparam {
     NoteBorderColor lime
     NoteFontColor black
     SequenceDividerBackgroundColor white
-    SequenceDividerBorderColor white
+    SequenceDividerBorderColor LightGray
     SequenceDividerFontColor black
     SequenceGroupBackgroundColor deepskyblue
     SequenceGroupBorderColor grey
